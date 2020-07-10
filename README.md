@@ -37,9 +37,9 @@ To aware the user of the amount of energy being consumed and wastede in his hous
 
 - Php
 
--WAMP server
+- WAMP server
 
--MySQL
+- MySQL
 
 
 
